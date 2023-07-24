@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Learning to be a DevOps engineer
+
+[![My Skills](https://skillicons.dev/icons?i=jenkins,kubernetes,docker,gcp,aws,python,bash,powershell,ansible)](https://skillicons.dev)
+
 <!--
 **Filip3Kx/Filip3Kx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
