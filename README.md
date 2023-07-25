@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Learning to be a DevOps engineer
+I'm a Lab Technician with expirience in managing a large-scale environment. 
+
+Currently trying out CI/CD technologies.
 
 [![My Skills](https://skillicons.dev/icons?i=jenkins,kubernetes,docker,gcp,aws,python,bash,powershell,ansible)](https://skillicons.dev)
 
