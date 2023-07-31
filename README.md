@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Lab Technician with expirience in managing a large-scale environment. 
+I'm a Lab Technician with expirience in managing a large-scale on-premise environment. 
 
 Currently trying out CI/CD technologies.
 
