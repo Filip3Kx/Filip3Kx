@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm a Lab Technician with expirience in managing a large-scale on-premise environment. 
+Was a lab technician with expirience in managing a large-scale on-premise environment.
+Currently working as a Junior DevOps mostly in GCP
 
-Currently trying out CI/CD technologies.
+Trying out different technologies
 
 [![My Skills](https://skillicons.dev/icons?i=jenkins,gitlab,kubernetes,docker,gcp,aws,python,bash,powershell,ansible)](https://skillicons.dev)
