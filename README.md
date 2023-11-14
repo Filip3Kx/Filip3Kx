@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Was a lab technician with expirience in managing a large-scale on-premise environment.
-Currently working as a Junior DevOps mostly in GCP
+- Was a lab technician with expirience in managing a large-scale on-premise environment.
+- Currently working as a Junior DevOps mostly in GCP
 
 Trying out different technologies
 
