@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Was a lab technician with expirience in managing a large-scale on-premise environment.
+- Was a lab technician at Intel with expirience in managing a large-scale on-premise environment.
 - Currently working as a DevOps Engineer mostly in GCP
 
 Trying out different technologies
