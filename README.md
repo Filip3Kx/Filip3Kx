@@ -11,5 +11,5 @@ My Stack
 
 Courses i've done or working on
 - DevOps Beginner to Advanced with Projects - 2023 by Imran Teli
-- DevOps EngineerLearning Path on [KodeKloud.com](https://learn.kodekloud.com)
+- DevOps Engineer Learning Path on [KodeKloud.com](https://learn.kodekloud.com)
 - DevOps Foundations on [CloudGuru](www.pluralsight.com)
