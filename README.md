@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - Was a lab technician at Intel with expirience in managing a large-scale on-premise environment.
-- Currently working as a DevOps Engineer mostly in GCP
-  - Expirience in a banking GCP environment
-  - Development of a terraform provider  
+- Worked as a DevOps Engineer mostly in GCP (SlickCloud)
+  - Expirience in maintaining and developing a Data Warehouse in a FinTech project
+  - Development of the terraform provider
+  - Support on various client environments
 
 My Stack
 
