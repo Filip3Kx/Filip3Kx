@@ -5,6 +5,10 @@
   - Expirience in maintaining and developing a Data Warehouse in a FinTech project
   - Development of the terraform provider
   - Support on various client environments
+- Currently working as a Cloud DevOps Engineer in Oktawave
+  - Developing a custom cloud provider
+  - Migrating clients into the cloud
+  - Managing existing infrastructure
 
 My Stack
 
