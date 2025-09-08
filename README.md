@@ -7,6 +7,9 @@
   - Support on various client environments
 - Currently working as a Cloud DevOps Engineer in Oktawave
   - Developing a custom cloud provider
+  - Contributing to third party terraform providers to enable key project initiatives (Google, Gitea, AWS)
+  - Networking architecture
+  - Writing automations for GCP workloads
   - Migrating clients into the cloud
   - Managing existing infrastructure
 
